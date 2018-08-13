@@ -1,20 +1,21 @@
-# BitShares notifications service
-## Using the service
+# BitShares Email Notifier
+
+## About the service and current development
 
 This service monitors your BitShares accoount and notifies you by Email or Telegram regarding the following activity types:
 - Transfer
 - Fill order
 
-To do's
+To do's:
 - Deposit
 - Withdrawal
 - Decrease of collateral ratio below 2.0
 
 ## For Email-notifications
-Send 50 BTS from your BitShares account to account name "BITSHARES-NOTIFIER" with your email in the transaction memo.
+https://github.com/TrustyFund/notifier - this is fork under development
 
 ## For Telegram-notifications
-Open Telegram app, launch bot @trustyfundbot and follow instructions.
+Please visit https://github.com/TrustyFund/notifier - this is fork under development
 
 
 ## Running the service on your own node 
